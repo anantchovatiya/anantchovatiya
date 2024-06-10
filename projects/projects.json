@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Credit System",
+    "desc": "Developing a credit system project using MongoDB, leveraging its flexible document-based structure for efficient data storage and retrieval. This project aims to facilitate seamless credit management and tracking within a digital environment.",
+    "image": "creditsystem",
+    "links": {
+      "view": "https://creditsystem.onrender.com",
+      "code": "https://github.com/anantchovatiya/creditsystem"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "Creating a Spotify clone using HTML, CSS, and JavaScript to replicate the popular music streaming platform's user interface and functionality. This project endeavors to provide a familiar and immersive music listening experience for users while honing front-end development skills.",
+    "image": "spotify",
+    "links": {
+      "view": "https://spotifybyanant.freewebhostmost.com",
+      "code": "https://github.com/anantchovatiya/spotify"
+    }
+  }
+
+]
