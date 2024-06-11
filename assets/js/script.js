@@ -38,19 +38,24 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("wbfw3CTwl32F2cvh1");
+    $('#contact-form').on('submit', function(event) {
+        event.preventDefault(); // prevent reload
 
-        emailjs.sendForm("service_y5pv355", "template_29mdi64", '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
+        var formData = new FormData(this);
+        formData.append('service_id', 'service_y5pv355');
+        formData.append('template_id', 'template_e0sly23');
+        formData.append('user_id', 'ql21f62fljGKgG3m8');
+
+        $.ajax('https://api.emailjs.com/api/v1.0/email/send-form', {
+            type: 'POST',
+            data: formData,
+            contentType: false, // auto-detection
+            processData: false // no need to parse formData to string
+        }).done(function() {
+            alert('Your mail is sent!');
+        }).fail(function(error) {
+            alert('Oops... ' + JSON.stringify(error));
+        });
     });
     // <!-- emailjs to mail contact form data -->
 
