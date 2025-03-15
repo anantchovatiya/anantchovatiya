@@ -52,10 +52,10 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width=400 /> | <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical" width=400 /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=anantchovatiya&show_icons=true&theme=radical" width=400 /> | <img src="https://streak-stats.demolab.com/?user=anantchovatiya&theme=radical" width=400 /> |
 |---|---|
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anantchovatiya&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
@@ -67,7 +67,7 @@
 
 ## 🔝 Top Contributed Repos
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=anantchovatiya&theme=radical)
 
 📌 Contributed to **50+ repositories**, including:
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
