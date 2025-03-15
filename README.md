@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Anant Chovatiya! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
 
@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-🔭 **Currently Studying in IT**  
-👯 **Looking to collaborate on ML, DL**  
-🌱 **Currently learning Deep Learning**  
-💬 **Ask me about ML, DL, NLP**  
+🎓 **Pursuing a degree in IT**  
+🤝 **Eager to collaborate on ML, DL, & Nextjs projects**  
+📖 **Currently deep-diving into Deep Learning**  
+💡 **Passionate about AI, ML, and Nextjs** 
 
 📬 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anant-chovatiya)  
 
 ---
 
@@ -32,6 +32,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Nextjs](https://img.shields.io/badge/-Next.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
