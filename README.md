@@ -69,11 +69,3 @@
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=anantchovatiya&theme=radical)
 
-📌 Contributed to **50+ repositories**, including:
-- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-- [Open Source AI Projects](https://github.com/someopensourceproject)
-
----
-
-## ⚡ Fun Fact
-💡 "The best way to predict the future is to create it." - Alan Kay 😃
