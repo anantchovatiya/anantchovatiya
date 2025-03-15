@@ -1,6 +1,6 @@
 # Hi there, I'm Anant Chovatiya! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=anantchovatiya&color=blue&style=flat)
 
 ---
 
